@@ -507,6 +507,6 @@ stringContainer.addItem("apple");
 stringContainer.addItem("banana");
 const firstStringInContainer = stringContainer.getFirstItem(); 
 
-switch case
-method as a parameter
-while loop
+// switch case
+// method as a parameter
+// while loop
